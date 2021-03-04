@@ -28,4 +28,4 @@ Create a wireframe for a website called CSS Cheat Sheet.
 
 * Finally, we reached the footer of our website which is simply a blocked off area at the bottom of the page.
 
-![Finished wireframe of the project](./projects/wireframe/CSSWireframe.png)
+![Finished wireframe of the project](https://github.com/ysbcode/wireframe/blob/main/CSSWireframe.png)
